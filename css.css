@@ -1,0 +1,53 @@
+.header{
+    padding: 3px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 8px;
+    text-align: center;
+    text-shadow: 50px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 50px;
+    color: black;
+    box-shadow: 8px 8px 8px black;
+}
+*{
+    font-family: 'Kanit', sans-serif;
+
+}
+.navs{
+    color: white;
+    text-decoration: none;
+}
+.navs:hover{
+    color: red;
+}
+.button:hover{
+    color: red;
+    align-items: center;
+    margin-left: 45%;
+}
+.button a{
+    text-decoration: none;
+}
+.nav-tabs{
+    padding: 10px;
+    margin-right: 30%;
+    margin-left: 5%;
+    border-radius: 8px;
+    box-shadow: 4px 8px 5px 1px black;
+}
+
+.welcome_h2{
+    padding: 3px;
+    margin-left: 1%;
+    margin-top: 10px;
+    margin-right: 70%;
+    text-shadow: 50px;
+    font-size: 30px;
+    color: black;
+    color: yellowgreen;
+}
+.h3{
+    margin-left: 115px;
+    margin-right: 1040px;
+}
